@@ -1,0 +1,1 @@
+* 本地clone后，创建sandbox，通过sandbox可以跑应用
